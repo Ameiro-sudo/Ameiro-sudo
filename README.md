@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Ameiro-sudo</h1>
 
 <p align="center">
