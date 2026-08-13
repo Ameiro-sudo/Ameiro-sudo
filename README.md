@@ -29,7 +29,6 @@
 
 ## 🌧️ 项目
 
-- **[Bocchi Client](https://github.com/Ameiro-sudo/bocchi-mod)** — 波奇主题的 Minecraft 客户端外观 Mod（1.21.5 / 1.21.1，Skia 渲染双主题主菜单）
 - **[SnowBlock 博客](https://github.com/Ameiro-sudo/blog)** — 零后端静态博客（GitHub Pages + CI 自动部署）
 
 
