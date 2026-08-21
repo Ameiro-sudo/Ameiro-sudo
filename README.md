@@ -25,11 +25,15 @@
 
 | 站点 | 地址 |
 | --- | --- |
+| 🧭 导航主页 | [snowblock.top](https://snowblock.top) |
 | 📖 博客 | [blog.snowblock.top](https://blog.snowblock.top) |
+| 🎮 MC 服务器状态 | [status.snowblock.top](https://status.snowblock.top) |
 
 ## 🌧️ 项目
 
 - **[SnowBlock 博客](https://github.com/Ameiro-sudo/blog)** — 零后端静态博客（GitHub Pages + CI 自动部署）
+- **[MC 服务器状态站](https://github.com/Ameiro-sudo/inecraft-Server-Status-test)** — Minecraft 服务器实时状态监控（多数据源聚合 + 60s 轮询）
+- **[导航主页](https://github.com/Ameiro-sudo/Ameiro-sudo.github.io)** — snowblock.top 个人导航页
 
 
 ## 每日一言
