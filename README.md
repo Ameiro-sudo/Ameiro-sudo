@@ -39,5 +39,5 @@
 ## 每日一言
 
 <!--QUOTE_START-->
-> 知我者，谓我心忧；不知我者，谓我何求。 ——诗经·国风·王风·黍离
+> Pa' bailar no existen prueba'. ——Bum Bum Tam Tam
 <!--QUOTE_END-->
