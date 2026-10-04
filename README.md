@@ -39,5 +39,5 @@
 ## 每日一言
 
 <!--QUOTE_START-->
-> Pa' bailar no existen prueba'. ——Bum Bum Tam Tam
+> 愿你历尽千帆，归来仍是少年. ——盛夏
 <!--QUOTE_END-->
