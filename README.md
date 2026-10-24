@@ -39,5 +39,5 @@
 ## 每日一言
 
 <!--QUOTE_START-->
-> You complete me ! ——黑暗骑士
+> 她着红衣丝千里，天铺巨网罩深红。 ——深红之网
 <!--QUOTE_END-->
