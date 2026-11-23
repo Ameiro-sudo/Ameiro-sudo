@@ -39,5 +39,5 @@
 ## 每日一言
 
 <!--QUOTE_START-->
-> You complete me ! ——黑暗骑士
+> 独立寒秋，湘江北去，橘子洲头。 ——沁园春·长沙
 <!--QUOTE_END-->
